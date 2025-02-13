@@ -8,7 +8,7 @@ def palin(a):
     return a_st == rev  
 
 # Open the file and read lines
-with open("C:/Users/JAN RODRIGO MARTINEZ/Documents/GitHub/Martinez_IT0011/MIDTERM/numbers.txt", "r") as file:
+with open("c:/Users/JAN RODRIGO MARTINEZ/Documents/GitHub/Matinez_IT0011/MIDTERM/numbers.txt", "r") as file:
     lines = file.readlines()
 
 # Process each line
